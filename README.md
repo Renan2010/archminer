@@ -1,2 +1,2 @@
-# archminer
-Arch Miner. An Arch Linux system focused on mining
+# Arch Miner
+A pocket-sized operating system you can put on a USB stick to turn any PC into a mining rig
